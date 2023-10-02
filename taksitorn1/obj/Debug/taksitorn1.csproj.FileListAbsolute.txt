@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\taksitorn1\taksitorn1\bin\Debug\taksitorn1.exe.config
+C:\Users\User\source\repos\taksitorn1\taksitorn1\bin\Debug\taksitorn1.exe
+C:\Users\User\source\repos\taksitorn1\taksitorn1\bin\Debug\taksitorn1.pdb
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.Form1.resources
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.Properties.Resources.resources
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.exe
+C:\Users\User\source\repos\taksitorn1\taksitorn1\obj\Debug\taksitorn1.pdb
